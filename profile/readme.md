@@ -9,7 +9,7 @@
   <hr width="50%" />
   <br />
 
-  <a href="https://discord.gg/WpbH7sgC6X">
+  <a href="https://discord.gg/ZZdrkVj4rC">
     <img src="https://img.shields.io/badge/JOIN%20OUR%20DISCORD-e53935?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <br /><br />

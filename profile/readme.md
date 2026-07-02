@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/hysteria.png" width="180" alt="Hysteria Logo" />
+  <img src="https://raw.githubusercontent.com/lawsuit-wtf/.github/main/profile/lawsuitt.png" width="180" alt="Hysteria Logo" />
   
   <h1 align="center" style="letter-spacing: 5px;">Lawsuit</h1>
   
